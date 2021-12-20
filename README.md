@@ -8,7 +8,7 @@
 (자료 출처 : https://www.oracle.com/kr/data-science/what-is-data-science/)
 
 
-# ISLR-Python
+# ISLR-Python을 사용한 통계 스터디 진행 
 
 <P>
 
@@ -25,4 +25,11 @@
  - patsy
  - matplotlib
  - seaborn
-  
+ 
+#### 참고 문헌 : 
+James, G., Witten, D., Hastie, T., Tibshirani, R. (2013). <I>An Introduction to Statistical Learning with Applications in  R</I>,  Springer Science+Business Media, New York.
+https://www.statlearning.com/
+
+Hastie, T., Tibshirani, R., Friedman, J. (2009). <I>Elements of Statistical Learning</I>, Second Edition, Springer Science+Business Media, New York.
+http://statweb.stanford.edu/~tibs/ElemStatLearn/
+ 
