@@ -1,4 +1,4 @@
-# <div align="center">statistical_practical-analysis </div>
+# <div align="center">Statistical_Practical-Analysis </div>
 
 학문으로서, 데이터 사이언스는 이른바 <b>통계학의 리모델링 버전 학문</b>으로 일컬어질 만큼 데이터사이언스 학문에 있어 통계학은 필수불가결한 존재입니다. 이에 대해 데이터 사이언티스트를 꿈꾸는 사람으로서 통계학적인 지식을 함양하므로써, 통계 기반 데이터 의사결정을 수행하기 위한 준비 채널입니다.  
 
