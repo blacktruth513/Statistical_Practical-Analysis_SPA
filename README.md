@@ -9,7 +9,5 @@
 
 
 # ISLR-Python
-<P>
 
-<IMG src='Notebooks/ISL%20Cover%202.jpg' height=20% width=20%> <P>
    
