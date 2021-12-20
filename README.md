@@ -7,4 +7,9 @@
 <br>
 (자료 출처 : https://www.oracle.com/kr/data-science/what-is-data-science/)
 
+
+# ISLR-Python
+<P>
+
+<IMG src='Notebooks/ISL%20Cover%202.jpg' height=20% width=20%> <P>
    
