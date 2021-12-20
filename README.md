@@ -1,4 +1,4 @@
-# statistical_practical-analysis
+# <div align="center">statistical_practical-analysis </div>
 
 학문으로서, 데이터 사이언스는 이른바 <b>통계학의 리모델링 버전 학문</b>으로 일컬어질 만큼 데이터사이언스 학문에 있어 통계학은 필수불가결한 요소입니다. 이에 대해 데이터 사이언티스트를 꿈꾸는 사람으로서 통계학적인 지식을 함양하므로써, 통계 기반 데이터 의사결정을 수행하기 위한 준비 채널입니다.  
 
@@ -13,3 +13,16 @@
 <P>
 
 <IMG src='https://user-images.githubusercontent.com/78430460/146753841-bf3a4537-fb7a-4af6-a7dc-36f7de9f5f36.jpg' height=20% width=20%> <P>
+  
+ "Introduction to Statistical Learning in R (ISLR)" 도서 내용 기반으로 하여 각 Chapter별 통계 공부 내용을 python 코드로 정리하며 통계학에 대한 이해도를 제고시키고 활용 역량 강화를 도모하고자 합니다. 다음은 스터디에서 다루게 될 파이썬 라이브러리 및 핵심 키워드입니다.
+  
+ - pandas
+ - numpy
+ - scipy
+ - scikit-learn
+ - python-glmnet
+ - statsmodels
+ - patsy
+ - matplotlib
+ - seaborn
+  
