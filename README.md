@@ -32,4 +32,5 @@ https://www.statlearning.com/
 
 Hastie, T., Tibshirani, R., Friedman, J. (2009). <I>Elements of Statistical Learning</I>, Second Edition, Springer Science+Business Media, New York.
 http://statweb.stanford.edu/~tibs/ElemStatLearn/
- 
+
+# ADP 실기 준비 
